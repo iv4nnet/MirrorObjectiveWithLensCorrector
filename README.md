@@ -1,7 +1,7 @@
 # Mirror Objective with Lens Corrector
 
 ## Overview
-This repository contains a course project on the design and optimization of a mirror objective with a lens corrector. Developed as part of the "Applied Optics" course at Moscow State Technical University of Bauman, the project involves detailed calculations and simulations to create an optical system that combines a two-mirror Cassagrain configuration with a dual-lens afocal corrector (Churilovsky corrector) and a Smith lens for field curvature correction.
+This repository contains a course project on the design and optimization of a mirror objective with a lens corrector. Developed as part of the "Applied Optics" course at Moscow State Technical University of Bauman, the project involves detailed calculations (performed in Mathcad) and simulations to create an optical system that combines a two-mirror Cassagrain configuration with a dual-lens afocal corrector (Churilovsky corrector) and a Smith lens for field curvature correction.
 
 ## Project Description
 The project is divided into several key sections:
@@ -27,20 +27,20 @@ The project is divided into several key sections:
 
 ## Analysis Summary
 This project provides a comprehensive analysis of an optical system that combines both reflective and refractive elements. The key aspects include:
-- **Detailed Calculations:** The derivation of system parameters such as mirror diameters, focal lengths, and distances between optical elements.
+- **Detailed Calculations:** The derivation of system parameters such as mirror diameters, focal lengths, and distances between optical elements. All calculations were performed in Mathcad.
 - **Aberration Correction:** Implementation of the Churilovsky corrector and Smith lens to address common optical aberrations such as coma, chromatic aberration, and field curvature.
 - **Optimization Techniques:** Use of Zemax to simulate and refine the design, ensuring that the final system meets stringent imaging performance criteria.
 
 ## Technologies and Tools
 - **Optical Design Software:** Zemax for system simulation and optimization.
-- **Calculation Tools:** Detailed manual computations based on optical theory.
+- **Calculation Tools:** Mathcad was used to perform detailed calculations based on optical theory.
 - **Documentation:** The project report was prepared using Microsoft Word.
 
 ## Getting Started
 To explore or modify this project:
 1. **Clone the Repository:**  
    ```bash
-   git clone https://github.com/yourusername/mirror-objective-with-lens-corrector.git
+   git clone https://github.com/iv4nnet/MirrorObjectiveWithLensCorrector.git
    ```
 2. **Review Documentation:**  
    The project report (in PDF) provides a comprehensive explanation of the design and calculations.
